@@ -1,0 +1,10 @@
+INSERT INTO clients (age) VALUES (10) where id = 1 ;
+INSERT INTO clients (age) VALUES (10) where id = 2;
+INSERT INTO clients (age) VALUES (10) where id = 3;
+INSERT INTO clients (age) VALUES (10) where id = 4;
+INSERT INTO clients (age) VALUES (10) where id = 5;
+INSERT INTO clients (age) VALUES (10) where id = 6;
+INSERT INTO clients (age) VALUES (10) where id = 7;
+INSERT INTO clients (age) VALUES (10) where id = 8;
+INSERT INTO clients (age) VALUES (10) where id = 9;
+INSERT INTO clients (age) VALUES (10) where id = 10;

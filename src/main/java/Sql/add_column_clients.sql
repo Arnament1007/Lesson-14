@@ -1,0 +1,1 @@
+ALTER TABLE client ADD age int(100);
